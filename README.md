@@ -1,7 +1,6 @@
 ### Hi there 👋
 ## Hi there
 hi dave
-hi max
 <!--
 **Awais-10/Awais-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
