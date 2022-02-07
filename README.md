@@ -1,5 +1,5 @@
 ### Hi there 👋
-my name is Awais!
+I'm Awais!
 
 *Welcome to my test repo :D*
 <!--
