@@ -3,7 +3,7 @@ I'm Awais
 
 *Welcome to my test repo :D*
 
-test
+hi
 <!--
 **Awais-10/Awais-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
