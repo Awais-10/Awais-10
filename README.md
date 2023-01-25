@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm Awais.
+I'm Awais
 
 *Welcome to my test repo, where the code is made up and the points don't matter*
 <!--
