@@ -1,10 +1,7 @@
 ### Hi there! 👋
 I'm Awais.
-*Welcome to my test repo :)*
 <!--
 **Awais-10/Awais-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[sc-539]
 
 Here are some ideas to get you started:
 
