@@ -1,6 +1,6 @@
 ### Hi there! 👋
 I'm Awais.
-This is my test repo :D
+This is my test repo
 
 
 Dave says hi :D
