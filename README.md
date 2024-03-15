@@ -4,6 +4,8 @@ This is my test repo
 
 
 Dave says hi :D
+
+Max says hi too :)
 <!--
 [sc-2334]
 **Awais-10/Awais-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
