@@ -1,11 +1,8 @@
 ### Hi there! 👋
 I'm Awais.
-This is my test repo
 
-
-Dave says hi :D
+*Welcome to my test repo, where the code is made up and the points don't matter! :D*
 <!--
-[sc-2334]
 **Awais-10/Awais-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
