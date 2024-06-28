@@ -3,7 +3,7 @@ I'm Awais.
 
 *Welcome to my test repo, where the code is made up and the points don't matter! :D*
 
-*Here's some more text to read for your eyes*
+*Here's some more text to read for your eyes 👀*
 <!--
 **Awais-10/Awais-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
