@@ -2,7 +2,7 @@
 I'm Awais.
 
 *Welcome to my test repo, where the code is made up and the points don't matter! :D*
-This is a commit message to test commit <> Story linking
+Testing PR and Branch removal
 <!--
 **Awais-10/Awais-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
